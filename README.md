@@ -1,16 +1,15 @@
-### Hi there 👋
+# About me!
 
-<!--
-**EnesCosanUZ/EnesCosanUZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Enes. 
+- Studying at Mersin University Information Systems and Technologys. 
+- Knows Javascript, NodeJS and C#. Also Mongoose, MYSQL and Microsoft SQL.
 
-Here are some ideas to get you started:
+## Works
+- Worked for [DreamOriented Company](https://dreamoriented.org) as Web Developer until June 2021.
+- Made [AssistiveCards.com](http://assistivecards.com) with GatsbyJS and GraphQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Stats
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=enescosanuz&show_icons=true&layout=compact&theme=nightowl" style="height: 230px; width: 49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=enescosanuz&show_icons=true&theme=nightowl" style="height: 200px; width: 49%" /> 
+</div>
