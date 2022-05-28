@@ -10,6 +10,6 @@ I'm Enes.
 
 ## Github Stats
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=enescosanuz&show_icons=true&layout=compact&theme=nightowl" style="height: 230px; width: 49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=enescosanuz&show_icons=true&theme=nightowl" style="height: 200px; width: 49%" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=enescosanuz&show_icons=true&layout=compact&theme=nightowl" style="height: 195px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=enescosanuz&show_icons=true&theme=nightowl" style="height: 195px;" /> 
 </div>
