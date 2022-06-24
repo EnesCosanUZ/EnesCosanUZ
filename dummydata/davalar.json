@@ -1,0 +1,29 @@
+[
+    {
+        "EsasNo": "2022/07",
+        "Mahkeme": "Antalya",
+        "Muvekkil": "Miraç",
+        "Tur": "Ceza",
+        "Ek": "",
+        "Tarih": "2022-07-23T00:00:00.000Z",
+        "Isim": "NS"
+    },
+    {
+        "EsasNo": "2022/08",
+        "Mahkeme": "Istanbul",
+        "Muvekkil": "Furkan",
+        "Tur": "Ceza",
+        "Ek": "",
+        "Tarih": "2022-07-23T00:00:00.000Z",
+        "Isim": "NS"
+    },
+    {
+        "EsasNo": "2022/06",
+        "Mahkeme": "Izmir",
+        "Muvekkil": "Enes",
+        "Tur": "Men",
+        "Ek": "",
+        "Tarih": "2022-06-23T00:00:00.000Z",
+        "Isim": "NS"
+    }
+]
