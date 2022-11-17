@@ -4,8 +4,6 @@ I'm Enes.
 
 - Studying at Mersin University Information Systems and Technologys.
 
-- Knows Javascript, NodeJS and C#. Also Mongoose, MYSQL and Microsoft SQL.
-
 ## Languages
 <div>
 <!-- CSS -->
