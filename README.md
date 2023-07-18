@@ -43,9 +43,9 @@ I'm Enes.
 ## Github Stats
 
 <div style="width: 100%; display: flex;">
-  
-![](https://github-readme-stats.vercel.app/api?username=enescosanuz&show_icons=true&theme=nightowl)
-![](https://github-readme-streak-stats.herokuapp.com/?user=enescosanuz&theme=nightowl)
+
+<img src="https://github-readme-stats.vercel.app/api?username=enescosanuz&show_icons=true&theme=nightowl" style="width: 49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=enescosanuz&theme=nightowl" style="width: 49%" />
   
 </div>
 
