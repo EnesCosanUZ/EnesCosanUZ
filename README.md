@@ -4,42 +4,43 @@ I'm Enes.
 
 - Studying at Mersin University Information Systems and Technologys.
 
+## Contacts
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enescosanuz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enescosanuz)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/enescosanuz)
+
 ## Languages
-<div>
-<!-- CSS -->
-<a href="https://www.w3schools.org/css/"><img src="https://www.svgrepo.com/show/353623/css-3.svg" width="36px" /></a>
-<a href="https://getbootstrap.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png" width="36px" /></a>
-<a href="https://tailwindcss.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/800px-Tailwind_CSS_Logo.svg.png" width="36px" /></a>
-<!-- JS -->
-<a href="https://www.javascript.com"><img src="https://www.svgrepo.com/show/355081/js.svg" width="36px" /></a>
-<a href="https://nodejs.org"><img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" width="36px" /></a>
-<a href="https://reactjs.org"><img src="https://www.svgrepo.com/show/354259/react.svg" width="36px" /></a>
-<a href="https://www.gatsbyjs.com"><img src="https://www.svgrepo.com/show/355032/gatsbyjs.svg" width="36px" /></a>
-<!-- SQL -->
-<a href="https://www.w3schools.com/sql/"><img src="https://www.svgrepo.com/show/255832/sql.svg" width="36px" /></a>
-<a href="https://www.mongodb.com"><img src="https://www.svgrepo.com/show/373845/mongo.svg" width="36px" /></a>
-<!-- Py -->
-<a href="https://www.python.org"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" width="36px" /></a>
-<!-- C-->
-<a href="https://www.w3schools.com/cs/"><img src="https://www.svgrepo.com/show/353622/c-sharp.svg" width="36px" /></a>
-</div>
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ## Works
 
-- Worked for [Aliaga Belediyesi IT Headership](https://www.aliaga.bel.tr) as Junior in July 2022
-
-- Worked for [DreamOriented Company](https://dreamoriented.org) as Web Developer between January 2021 and June 2021.
+- Worked for [dabnet.com.tr](https://dabnet.com.tr) as Intern in July 2023
+  
+- Worked for [Aliaga Belediyesi IT Headership](https://www.aliaga.bel.tr) as Intern in July 2022
 
 - Made [AssistiveCards.com](http://assistivecards.com) with GatsbyJS and GraphQL.
 
-  
+- Worked for [DreamOriented Company](https://dreamoriented.org) as Web Developer between January 2021 and June 2021.
 
 ## Github Stats
 
-<div>
-
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=enescosanuz&show_icons=true&layout=compact&theme=nightowl"  style="width: 49%;"  />
-
-<img  src="https://github-readme-stats.vercel.app/api?username=enescosanuz&show_icons=true&theme=nightowl"  style="width: 49%;"  />
-
-</div>
+![](https://github-readme-stats.vercel.app/api?username=enescosanuz&show_icons=true&theme=nightowl)
+![](https://github-readme-streak-stats.herokuapp.com/?user=enescosanuz&theme=nightowl)
